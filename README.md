@@ -1,3 +1,9 @@
+## Project based on React nanodegree program from udacity
+
+This is a version using create react app from APP Todos-Goals list.
+
+## Below infos about create-react-app
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
